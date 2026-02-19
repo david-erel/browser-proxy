@@ -1,0 +1,9 @@
+{
+  "defaultBrowser": "chrome",
+  "rules": [
+    {
+      "senderName": "Slack",
+      "browser": "firefox"
+    }
+  ]
+}

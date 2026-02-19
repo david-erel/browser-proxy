@@ -1,0 +1,13 @@
+# Build output
+build/
+
+# macOS system files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Editor swap files
+*.swp
+*~
