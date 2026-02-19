@@ -21,7 +21,7 @@ BrowserProxy runs as a background process with no dock icon and near-zero resour
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/browser-proxy.git
+git clone https://github.com/david-erel/browser-proxy.git
 cd browser-proxy
 ./scripts/install.sh
 ```
